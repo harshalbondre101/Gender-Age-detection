@@ -1,5 +1,7 @@
 # Gender-Age-detection
 
+#Please use google colab so it will be easier to process google drive links
+
 # Gender and Age Classification using CNNs
 The authors have used a very simple convolutional neural network architecture, similar to the CaffeNet and AlexNet. The network uses 3 convolutional layers, 2 fully connected layers and a final output layer. The details of the layers are given below.
 
